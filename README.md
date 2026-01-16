@@ -3,5 +3,5 @@
 ```bash
 bash <(curl -Ls https://raw.githubusercontent.com/eooce/sing-box/main/sing-box.sh)
 
-```bash
+bash
 curl -fsSL https://raw.githubusercontent.com/bigcow666/hy2/main/bigcow/hy2 -o hy2.sh && chmod +x hy2.sh && ./hy2.sh
