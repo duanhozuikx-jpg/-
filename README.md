@@ -12,3 +12,7 @@ curl -fsSL https://raw.githubusercontent.com/bigcow666/hy2/main/bigcow/hy2 -o hy
 ```bash
 export noninteractive=true && curl -L https://raw.githubusercontent.com/oneclickvirt/ecs/master/goecs.sh -o goecs.sh && chmod +x goecs.sh && ./goecs.sh install && goecs
 ``` 
+### 4. 3xui面板
+```bash
+bash <(curl -Ls https://raw.githubusercontent.com/yinghuanb/xui-bbr-nginx-setup/main/xui-bbr-nginx-setup.sh)
+``` 
