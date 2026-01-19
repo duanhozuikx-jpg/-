@@ -2,7 +2,7 @@
 
 ### 1. 一合四脚本
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/eooce/sing-box/main/sing-box.sh)
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/caigouzi121380/singbox-deploy/main/install-singbox-yyds.sh)"
 ``` 
 ### 2. 纯 HY2 脚本
 ```bash
