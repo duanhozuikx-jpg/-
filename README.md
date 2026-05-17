@@ -15,4 +15,7 @@ export noninteractive=true && curl -L https://raw.githubusercontent.com/oneclick
 ### 4. 3xui面板
 ```bash
 bash <(curl -Ls https://raw.githubusercontent.com/yinghuanb/xui-bbr-nginx-setup/main/xui-bbr-nginx-setup.sh)
-``` 
+### 5. 测试脚本
+```bash
+bash <(curl -sL https://raw.githubusercontent.com/adsorgcn/vpscheck/main/vpscheck.sh)
+```
