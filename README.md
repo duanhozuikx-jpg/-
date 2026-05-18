@@ -21,5 +21,6 @@ bash <(curl -Ls https://raw.githubusercontent.com/yinghuanb/xui-bbr-nginx-setup/
 bash <(curl -sL https://raw.githubusercontent.com/adsorgcn/vpscheck/main/vpscheck.sh)
 ```
 ### 6. ap脚本
+```bash
 apk add bash &&  (curl -LfsS https://raw.githubusercontent.com/0xdabiaoge/singbox-lite/main/singbox.sh -o /usr/local/bin/sb || wget -q https://raw.githubusercontent.com/0xdabiaoge/singbox-lite/main/singbox.sh -O /usr/local/bin/sb) && chmod +x /usr/local/bin/sb && sb
 ```
